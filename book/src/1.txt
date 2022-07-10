@@ -1,0 +1,182 @@
+Final Project Requrirements
+React Project
+1.Ecommerce+
+2.Responsive
+3.Add to card+
+4.Dark and Light mode
+5.Multi language (AZ and EN)+
+6.Blog Page
+7.Blog -> Add, Edit, Remove (Crud Systems)
+With LocalStorage 
+
+
+  xs: 0, 
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+
+1.ToDo APP
+2.Counter(without pack)
+3.Loading(without setTimeout)
+4.Promise (fetch api)
+5.Callback - await async
+6.AOS example
+7.pop
+push
+regex 
+promise 
+fetch 
+match 
+random 
+ceil 
+round 
+max 
+min 
+sign 
+floor 
+filter 
+include 
+some 
+every 
+map 
+reduce 
+foreach 
+prototype 
+static 
+super 
+... 
+join 
+sort 
+shift 
+find 
+fill 
+parse'lar 
+MAXVALUE 
+MINVALUE
+
+
+https://demo3.leotheme.com/prestashop/leo_bookery_demo/en/home-01.html
+arin yazilim 
+prototurk
+
+
+
+3. const {t} = useTranslation();
+4.Public qovluqunda locales qovluqu yarat ve en ve ru qovlugu yarat ve orda jsonlar yarat
+5. Buttonun oldugu yerde funksiya yarat 
+
+function dilDeyisdir(a){
+
+    i18next.changeLanguage(a)
+
+  }
+
+6. sonra da buttona onClick={()=>dilDeyisdir('en')} eventi ver
+7. ve her hansi yazini deyismek ucun de 
+elementin icinde {t(abc.abc)}
+
+
+
+ /* "product":[
+        {
+            "id":1,
+            "img":"../../assets/img/hummingbird-printed-t-shirt.jpg",
+            "hoverimg":"../../assets/img/hummingbird-printed-t-shirt (1).jpg",
+            "name":"The Classic Harry Potter Series",
+            "price":19.12,
+            "category":"FANTASY",
+            "sale":"$23.90"
+        }
+    ] */
+
+
+
+
+    https://drive.google.com/drive/folders/1QsfQXyADsSOMvwftJQQbyO95Q1r-fRtl?usp=sharing
+    https://drive.google.com/drive/folders/1JzjspC108wUtFMcuYlgXhTDArSJJs0Wo?usp=sharing
+
+
+     <div className="container my-5">
+          <div className='row'>
+            <div className='col-3 my-3'>
+              <div className='category'>
+                <h2>Azərbaycan dili</h2>
+              </div>
+            </div>
+            <div className='col-3 my-3'>
+              <div className='category'>
+                <h2>Rus dili</h2>
+              </div>
+            </div>
+            <div className='col-3 my-3'>
+              <div className='category'>
+                <h2>İngilis dili</h2>
+              </div>
+            </div>
+            <div className='col-3 my-3'>
+              <div className='category'>
+                <h2>Türk dili</h2>
+              </div>
+            </div>
+            <div className='col-3 my-3'>
+              <div className='category'>
+                <h2>Jurnal</h2>
+              </div>
+            </div>
+            <div className='col-3 my-3'>
+              <div className='category'>
+                <h2>Test</h2>
+              </div>
+            </div>
+            <div className='col-3 my-3'>
+              <div className='category'>
+                <h2>Digər</h2>
+              </div>
+            </div>
+        </div>
+        </div>
+      
+
+      Din və Mənəviyyat
+
+Cinayət
+Agatha Christie
+Britaniya Kitabxanası Klassikləri
+Klassik Cinayət
+Tarixi Cinayət
+Şerlok Holms
+Trillerlər
+
+
+İncəsənət və Fotoqrafiya
+Memarlıq
+İncəsənət işi
+Kolleksiyalar, Kataloqlar və Sərgilər
+Dekorativ İncəsənət və Dizayn
+Rəsm
+Qrafik dizayn
+
+
+Bioqrafiyalar və Xatirələr
+Kompüterlər və Texnologiya
+Yemək kitabları, Qida və Şərab
+Təhsil və Tədris
+Sağlamlıq, Fitnes və Pəhriz
+Tarix
+
+
+Uydurma
+Kitab Mükafatları
+Təmizləmə
+Mədəni məqamlar
+Hədiyyə kitabları
+Hədiyyə Kartları
+İmzalı və Xüsusi Nəşrlər
+
+Qeyri-bədii ədəbiyyat
+Hobbilər, Viktorinalar və Oyunlar
+Ev və Bağ
+Yumor
+Dil & Referans

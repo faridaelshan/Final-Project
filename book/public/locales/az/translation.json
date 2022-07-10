@@ -1,0 +1,21 @@
+{
+    "Navbar":{
+           "navlink0":"Baş səhifə",
+           "navlink1":"Kateqoriya",
+           "navlink2":"Bloq",
+           "navlink3":"Haqqında",
+           "navlink4":"Əlaqə"
+       } ,
+    "Select":{
+        "option0":"Bütün",
+        "option1":"Bütün Kateqoriyalar",
+        "option2":"Baş səhifə",
+        "option3":"Elmi fantastika",
+        "option4":"Fantastika",
+        "option5":"Ədəbiyyat",
+        "option6":"Roman",
+        "option7":"İncəsənət və Fotoqrafiya",
+        "option8":"Dedektiv",
+        "option9":"Komediya"
+    }
+}

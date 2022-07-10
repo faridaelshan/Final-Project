@@ -1,0 +1,45 @@
+1.Reduxda reducer nədir?
+hadiseler
+
+4.Bir storea bir və birdən çox reducer əlavə etməyin qaydası necədir?
+case switch 
+
+5.dispatchın reduxdakı rolu?
+hadiseleri elave etmek
+
+6.apidan gələn məlumatları hansı methodla döndürürük?
+map
+
+7.virtual dom nədir?
+real domun kopyasidir.nodelar vasitesile yaradilir
+
+8.router vasitəsi ilə not-found-page necə hazılanır ?
+route da path yazilmir
+
+
+12.Reduxda connect() methodunun rolu ?
+funksiyani componentle connect edir
+
+14.addtocard üçün hansı npm paketini istifadə edirik?
+useCart
+
+15.bir komponenti digər komponentlə əlaqəndirmək üçün nə edirik?
+import
+
+16.bir komponentin digər komponentdə çağırılmasına icazə verilməsi üçün nə edirik?
+export
+
+17.api nədir?
+data
+18.propsa aid nümunə yazın?
+const Home =(props)=> {
+  render() {
+    return <h1>{props.name}</h1>;
+  }
+}
+
+
+
+
+
+1.2.11.12

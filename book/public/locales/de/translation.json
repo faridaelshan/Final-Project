@@ -1,0 +1,21 @@
+{
+    "Navbar":{
+           "navlink0":"Startseite",
+           "navlink1":"Kategorien",
+           "navlink2":"Blog",
+           "navlink3":"Laden",
+           "navlink4":"Kontakt"
+       } ,
+       "Select":{
+        "option0":"All",
+        "option1":"All Categories",
+        "option2":"Startseite",
+        "option3":"Sci-fi",
+        "option4":"Fantasy",
+        "option5":"Literatur",
+        "option6":"Romance",
+        "option7":"Kunst und Fotografie",
+        "option8":"Verbrechen",
+        "option9":"Komödie"
+    }
+}
